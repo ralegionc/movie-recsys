@@ -205,4 +205,4 @@ the sampled-negative bias.
 
 ## License
 
-Not yet chosen. MIT would be consistent with the rest of these repositories.
+MIT. See [LICENSE](LICENSE).
